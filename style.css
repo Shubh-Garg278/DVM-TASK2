@@ -1,0 +1,62 @@
+h1{
+        margin-left:50px;
+        margin-bottom:40px;
+}
+
+
+body{
+        background-color:#f4f4f4;
+        justify-content:center;
+        align-items:center;
+        height:120vh;
+        margin-left:500px;
+
+}
+.alpha{
+    background-color:white;
+    color:black;
+    border:10px;
+    width:500px;
+    height:70vh;
+    margin-bottom:50px;
+  
+}
+.merch{
+    flex-direction: column;
+    display:flex;
+}
+.label{
+    margin-bottom:10px;
+    font-weight: bold;
+    color:black;
+}
+button {
+    background-color: #ffdd43;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    
+    margin-top:30px;
+}
+.button:hover{
+        background-color: grey;
+}
+.error {
+    color: red;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+.beta{
+    margin-bottom:30px;
+}
+.lap{
+    margin-bottom:30px;
+}
+.phone{
+    margin-bottom:30px;
+}
+.bitsId{
+    margin-bottom:30px;
+}
